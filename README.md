@@ -4,8 +4,8 @@
 
 ### *Bridging the gap between Advanced Artificial Intelligence and World-Class Creative Design.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Portfolios](https://img.shields.io/badge/Google_Drive-Creative_Director_Portfolios-1DA1F2?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/103bmwl7N81Ckvr7RF_TgHDgFCe15KGv2)
+[![Portfolios](https://img.shields.io/badge/Google_Drive-Multidisciplinary_Creative_Design_Portfolio-1DA1F2?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/103bmwl7N81Ckvr7RF_TgHDgFCe15KGv2)
+[![Behance](https://img.shields.io/badge/Behance-3D_Works_Archive-1769ff?style=for-the-badge&logo=behance)](https://www.behance.net/zaferyorganci)
 
 </div>
 
@@ -16,7 +16,7 @@
 I am a Full-Stack Software Engineer and Creative Technologist specializing in **Generative AI**, **WebGL/3D Graphics**, and **Enterprise Workflow Automation**. With a unique background spanning 3ds Max procedural rendering to FastAPI/React architectures, I build high-performance systems that don't just compute data—they deliver breathtaking user experiences.
 
 - 🤖 **Current Focus:** Training and deploying generative AI engines (MusicGen, Gemini, Claude).
-- 🌌 **Creative Output:** Check out my [**Creative Director Portfolios**](https://drive.google.com/drive/folders/103bmwl7N81Ckvr7RF_TgHDgFCe15KGv2) containing my 3D rendering and design work.
+- 🌌 **Creative Output:** Check out my [**Multidisciplinary Creative Design Portfolio**](https://drive.google.com/drive/folders/103bmwl7N81Ckvr7RF_TgHDgFCe15KGv2) and my [**3D Works Archive on Behance**](https://www.behance.net/zaferyorganci).
 - 💬 **Ask me about:** PWA architectures, Procedural 3D Generation, AI Prompt Engineering, and Serverless Deployment.
 
 ---
