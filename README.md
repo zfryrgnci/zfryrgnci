@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am a Full-Stack Software Engineer and Creative Technologist specializing in **Generative AI**, **WebGL/3D Graphics**, and **Enterprise Workflow Automation**. With a unique background spanning 3ds Max procedural rendering to FastAPI/React architectures, I build high-performance systems that don't just compute data—they deliver breathtaking user experiences.
+I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graphics**, and **Enterprise/Designer Workflow Automation**. With a unique background spanning 3ds Max procedural rendering to FastAPI/React architectures, I build high-performance systems that don't just compute data—they deliver breathtaking user experiences.
 
 - 🤖 **Current Focus:** Training and deploying generative AI engines (MusicGen, Gemini, Claude).
 - 🌌 **Creative Output:** Check out my [**Multidisciplinary Creative Design Portfolio**](https://drive.google.com/drive/folders/103bmwl7N81Ckvr7RF_TgHDgFCe15KGv2) and my [**3D Works Archive on Behance**](https://www.behance.net/zfryrgnci).
