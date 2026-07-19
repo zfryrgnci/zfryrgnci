@@ -45,11 +45,18 @@ Here are the open-source engines and applications I have engineered:
 | 🎵 **[MusicMaker AI](https://github.com/zfryrgnci/music-maker)** | Auto-regressive AI audio generator capable of creating 60-minute Long Mixes via perfect mathematical crossfading. | `Python` `FastAPI` `React` `MusicGen` |
 | ⚖️ **[Linguistic-Forensic-API](https://github.com/zfryrgnci/Linguistic-Forensic-API)** | Full-stack AI auditor for detecting cognitive biases, fallacies, and media manipulation in text. | `TypeScript` `React` `Vite` |
 | ♻️ **[Material Circularity Auditor](https://github.com/zfryrgnci/material-circularity-auditor)** | Green-tech construction waste analyzer using AI to calculate CO2 savings and circular economy scores. | `Gemini API` `React` `Tailwind` |
-| 🌌 **[Creative Technologist Lab](https://github.com/zfryrgnci/creative-technologist-lab)** | A massive WebGL sandbox housing over 80 interactive 3D generative art and physics algorithms. | `WebGL` `Three.js` `GLSL` |
 | 📧 **[Email-Inquiry-Parser](https://github.com/zfryrgnci/Email-Inquiry-Parser)** | High-precision semantic synthesizer translating unstructured B2B correspondence into CRM records. | `TypeScript` `AI` |
 | 🤝 **[RepreAI](https://github.com/zfryrgnci/RepreAI)** | Automated PR and B2B customer relations manager that preserves company tone and protects reputation. | `TypeScript` `React` |
 | 🛡️ **[Compliance-Audit-AI](https://github.com/zfryrgnci/Compliance-Audit-AI)** | Deterministic document verification and real-time compliance risk analysis engine. | `TypeScript` `Vite` |
-| 🛠️ **[Design Architect Scripts](https://github.com/zfryrgnci/creative-design-architect-scripts)** | 25 Enterprise-grade ExtendScript & MAXScript procedural automation tools for 3ds Max and Adobe CC. | `ExtendScript` `MAXScript` |
+
+<br/>
+
+## 🎨 Design & Creative Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌌 **[Creative Technologist Lab](https://github.com/zfryrgnci/creative-technologist-lab)** | A massive WebGL sandbox housing over 80 interactive 3D generative art and physics algorithms. | `WebGL` `Three.js` `GLSL` |
+| 🛠️ **[Design Architect Scripts](https://github.com/zfryrgnci/creative-design-architect-scripts)** | 1225 (5x245) automation scripts for Adobe CC and 3ds Max. | `ExtendScript` `MAXScript` |
 
 ---
 
