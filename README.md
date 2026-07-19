@@ -1,61 +1,72 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=250&section=header&text=Zafer%20Yorganci&fontSize=70&fontAlignY=35&desc=AI%20Solutions%20Architect%20%7C%20Full-Stack%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Zafer%20Yorganci&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20%7C%20Creative%20Technologist%20%7C%20Technical%20Director&descAlignY=55&descAlign=50" />
+
+### *Bridging the gap between Advanced Artificial Intelligence and World-Class Creative Design.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![Portfolios](https://img.shields.io/badge/Google_Drive-Creative_Director_Portfolios-1DA1F2?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/103bmwl7N81Ckvr7RF_TgHDgFCe15KGv2)
+
 </div>
 
+---
+
+## 🚀 About Me
+
+I am a Full-Stack Software Engineer and Creative Technologist specializing in **Generative AI**, **WebGL/3D Graphics**, and **Enterprise Workflow Automation**. With a unique background spanning 3ds Max procedural rendering to FastAPI/React architectures, I build high-performance systems that don't just compute data—they deliver breathtaking user experiences.
+
+- 🤖 **Current Focus:** Training and deploying generative AI engines (MusicGen, Gemini, Claude).
+- 🌌 **Creative Output:** Check out my [**Creative Director Portfolios**](https://drive.google.com/drive/folders/103bmwl7N81Ckvr7RF_TgHDgFCe15KGv2) containing my 3D rendering and design work.
+- 💬 **Ask me about:** PWA architectures, Procedural 3D Generation, AI Prompt Engineering, and Serverless Deployment.
+
+---
+
+## 💻 Tech Stack & Expertise
+
 <div align="center">
-  <a href="https://linkedin.com/in/zaferyorganci" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yorgancizafer1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,html,css,tailwind,nodejs,fastapi" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=threejs,docker,vercel,gcp,git,github,vscode,linux,ps,ai,pr,ae" />
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
-
-I specialize in building **premium, deterministic AI systems**, forensic text analysis engines, and enterprise-grade auditing tools. My focus is on creating zero-compromise, visually stunning web applications backed by advanced AI models.
-
-- 🚀 Currently building out an ecosystem of **AI-First SaaS products**.
-- 🧠 Deeply invested in **Prompt Engineering**, **LLM Integration (Gemini, Claude, GPT)**, and **Forensic Linguistics**.
-- 💅 Obsessed with **UI/UX perfection** (React, Tailwind v4, Framer Motion).
+**AI & Automation:** Gemini API, OpenAI API, Codex, Google Antigravity, Advanced Prompt Engineering.<br/>
+**Graphics & Scripting:** WebGL, React Three Fiber, ExtendScript (Adobe), MAXScript (3ds Max), V-Ray, Corona.
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
+## 🏆 Featured Projects
+
+Here are the open-source engines and applications I have engineered:
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🎵 **[MusicMaker AI](https://github.com/zfryrgnci/music-maker)** | Auto-regressive AI audio generator capable of creating 60-minute Long Mixes via perfect mathematical crossfading. | `Python` `FastAPI` `React` `MusicGen` |
+| ⚖️ **[Linguistic-Forensic-API](https://github.com/zfryrgnci/Linguistic-Forensic-API)** | Full-stack AI auditor for detecting cognitive biases, fallacies, and media manipulation in text. | `TypeScript` `React` `Vite` |
+| ♻️ **[Material Circularity Auditor](https://github.com/zfryrgnci/material-circularity-auditor)** | Green-tech construction waste analyzer using AI to calculate CO2 savings and circular economy scores. | `Gemini API` `React` `Tailwind` |
+| 🌌 **[Creative Technologist Lab](https://github.com/zfryrgnci/creative-technologist-lab)** | A massive WebGL sandbox housing over 80 interactive 3D generative art and physics algorithms. | `WebGL` `Three.js` `GLSL` |
+| 📧 **[Email-Inquiry-Parser](https://github.com/zfryrgnci/Email-Inquiry-Parser)** | High-precision semantic synthesizer translating unstructured B2B correspondence into CRM records. | `TypeScript` `AI` |
+| 🤝 **[RepreAI](https://github.com/zfryrgnci/RepreAI)** | Automated PR and B2B customer relations manager that preserves company tone and protects reputation. | `TypeScript` `React` |
+| 🛡️ **[Compliance-Audit-AI](https://github.com/zfryrgnci/Compliance-Audit-AI)** | Deterministic document verification and real-time compliance risk analysis engine. | `TypeScript` `Vite` |
+| 🛠️ **[Design Architect Scripts](https://github.com/zfryrgnci/creative-design-architect-scripts)** | 25 Enterprise-grade ExtendScript & MAXScript procedural automation tools for 3ds Max and Adobe CC. | `ExtendScript` `MAXScript` |
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,nodejs,express,mongodb,postgres,git,github,vscode" alt="Tech Stack" />
-</div>
-
----
-
-## 🔥 Featured AI Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Forensic Linguist & Media Bias Detector**](https://github.com/zfryrgnci/Linguistic-Forensic-API) | A high-precision sandbox that ingests text and identifies rhetorical manipulation, logical fallacies, and assigns a deterministic objectivity score. | `React` `Tailwind v4` `Node.js` `Gemini AI` |
-| [**Email to Inquiry Parser**](https://github.com/zfryrgnci/Email-Inquiry-Parser) | A lightweight, automated utility designed to ingest incoming emails, parse the content contextually, and convert them into structured CRM data. | `TypeScript` `Vite` `Google GenAI` |
-| [**Compliance Audit AI**](https://github.com/zfryrgnci/Compliance-Audit-AI) | Deterministic Document Verification & Risk Analysis Engine for regulatory adherence. | `React` `Express` `AI Core` |
-| [**ReproAI**](https://github.com/zfryrgnci/ReproAI) | Professional Customer Relations Manager for high-end B2B correspondence generation. | `Full-Stack` `LLMs` |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zfryrgnci&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zfryrgnci&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zfryrgnci&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfryrgnci&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zfryrgnci&theme=tokyonight&bg_color=0D1117&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zfryrgnci&bg_color=141321&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 <div align="center">
-  <i>"Building the future of deterministic AI systems, one prompt at a time."</i>
+<i>"Engineering logic to breathe life into art."</i>
 </div>
