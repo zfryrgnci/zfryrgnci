@@ -57,6 +57,11 @@ Here are the open-source engines and applications I have engineered:
 |---------|-------------|------------|
 | 🌌 **[Creative Technologist Lab](https://github.com/zfryrgnci/creative-technologist-lab)** | A massive WebGL sandbox housing over 80 interactive 3D generative art and physics algorithms. | `WebGL` `Three.js` `GLSL` |
 | 🛠️ **[Design Architect Scripts](https://github.com/zfryrgnci/creative-design-architect-scripts)** | 1225 (5x245) automation scripts for Adobe CC and 3ds Max. | `ExtendScript` `MAXScript` |
+| 🎨 **[AI-Powered PBR Texture Generator](https://github.com/zfryrgnci/ai-pbr-generator)** | Interactive web app using Generative AI to synthesize seamless PBR material maps. | `React` `Three.js` `AI` |
+| 🏗️ **[Parametric Architecture Configurator](https://github.com/zfryrgnci/parametric-arch-config)** | Real-time 3D web configurator for manipulating procedural architecture via mathematical meshes. | `React` `R3F` `WebGL` |
+| 🎬 **[Cinematic Storyboard AI Engine](https://github.com/zfryrgnci/previz-ai-engine)** | AI tool parsing screenplays to generate executable Python/MAXScripts for Unreal Engine blockouts. | `Python` `Unreal API` |
+| 🌪️ **[Generative Kinetic Typography](https://github.com/zfryrgnci/kinetic-typography)** | WebGL motion graphics engine using physics and noise algorithms to dynamically distort 3D typography. | `WebGL` `GLSL` `Three.js` |
+| 🥽 **[Spatial WebXR Portfolio](https://github.com/zfryrgnci/webxr-spatial-gallery)** | Immersive VR computing portfolio featuring a procedurally lit 3D museum environment. | `WebXR` `React` `R3F` |
 
 ---
 
