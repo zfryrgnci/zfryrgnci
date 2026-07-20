@@ -49,6 +49,16 @@ Here are the open-source engines and applications I have engineered:
 | 🤝 **[RepreAI](https://github.com/zfryrgnci/RepreAI)** | Automated PR and B2B customer relations manager that preserves company tone and protects reputation. | `TypeScript` `React` |
 | 🛡️ **[Compliance-Audit-AI](https://github.com/zfryrgnci/Compliance-Audit-AI)** | Deterministic document verification and real-time compliance risk analysis engine. | `TypeScript` `Vite` |
 
+
+<br/>
+
+## 📱 Mobile Game Development
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🐍 **[Neon Snake Rush](https://github.com/zfryrgnci/NeonSnakeAPK-Mobile-Game-)** | High-octane Hybrid-Casual Snake Game wrapped in native WebView. | `Kotlin` `HTML5 Canvas` |
+| 🔮 **[Quantum Ascent](https://github.com/zfryrgnci/QuantumAscentAPK-Mobile-Game-)** | Gravity-defying procedural vertical platformer with fluid physics. | `Kotlin` `HTML5 Canvas` |
+
 <br/>
 
 ## 🎨 Design & Creative Projects
