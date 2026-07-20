@@ -4,8 +4,11 @@
 
 ### *Bridging the gap between Advanced Artificial Intelligence and World-Class Creative Design.*
 
-[![Portfolios](https://img.shields.io/badge/Google_Drive-Multidisciplinary_Creative_Design_Portfolio-1DA1F2?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/103bmwl7N81Ckvr7RF_TgHDgFCe15KGv2)
-[![Behance](https://img.shields.io/badge/Behance-3D_Works_Archive-1769ff?style=for-the-badge&logo=behance)](https://www.behance.net/zfryrgnci)
+[![Branding](https://img.shields.io/badge/Portfolio-Branding_&_Visual_Communications-00C7B7?style=for-the-badge&logo=netlify)](https://zfryrgnci.netlify.app/01%20Zafer_Yorganci___Branding_Visual_Communications___Portfolio.pdf)
+[![Behance](https://img.shields.io/badge/Behance-3D_Portfolio_Archive-1769ff?style=for-the-badge&logo=behance)](https://www.behance.net/zfryrgnci)
+<br/>
+[![Xiaomi](https://img.shields.io/badge/Google_Drive-Xiaomi_Global_Animations-1DA1F2?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1uyqAJmhsgMtRzp3oO7wp9vDE3VNm57px)
+[![AuraAI](https://img.shields.io/badge/Google_Drive-AuraAI_App_Videos-1DA1F2?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1MUZOykLxwusNhAoBg3tC_M6SLmyeV7fA)
 
 </div>
 
@@ -16,7 +19,7 @@
 I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graphics**, and **Enterprise/Designer Workflow Automation**. With a unique background spanning 3ds Max procedural rendering to FastAPI/React architectures, I build high-performance systems that don't just compute data—they deliver breathtaking user experiences. I created 1250+ scripts for 3ds Max, Adobe Photoshop, Illustrator, After Effects and Premiere's work flows.
 
 - 🤖 **Current Focus:** Training and deploying generative AI engines (MusicGen, Gemini, Claude).
-- 🌌 **Creative Output:** Check out my [**Multidisciplinary Creative Design Portfolio**](https://drive.google.com/drive/folders/103bmwl7N81Ckvr7RF_TgHDgFCe15KGv2) and my [**3D Works Archive on Behance**](https://www.behance.net/zfryrgnci).
+- 🌌 **Creative Output:** Check out my **Branding Portfolio**, **Behance 3D Archive**, and **Video Animations** linked at the top of this profile!
 - 💬 **Ask me about:** PWA architectures, Procedural 3D Generation, AI Prompt Engineering, and Serverless Deployment.
 
 ---
