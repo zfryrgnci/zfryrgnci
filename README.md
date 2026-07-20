@@ -68,8 +68,8 @@ Here are the open-source engines and applications I have engineered:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zfryrgnci&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfryrgnci&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zfryrgnci&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfryrgnci&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
