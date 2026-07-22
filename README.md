@@ -39,6 +39,30 @@ I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graph
 
 ---
 
+## 🎨 Design & Creative Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌌 **[Creative Technologist Lab](https://github.com/zfryrgnci/creative-technologist-lab)** | A massive WebGL sandbox housing over 80 interactive 3D generative art and physics algorithms. | `WebGL` `Three.js` `GLSL` |
+| 🛠️ **[Design Architect Scripts](https://github.com/zfryrgnci/creative-design-architect-scripts)** | 1250 automation scripts for Adobe CC and 3ds Max. | `ExtendScript` `MAXScript` |
+| 🎨 **[AI-Powered PBR Texture Generator](https://github.com/zfryrgnci/ai-pbr-generator)** | Interactive web app using Generative AI to synthesize seamless PBR material maps. | `React` `Three.js` `AI` |
+| 🏗️ **[Parametric Architecture Configurator](https://github.com/zfryrgnci/parametric-arch-config)** | Real-time 3D web configurator for manipulating procedural architecture via mathematical meshes. | `React` `R3F` `WebGL` |
+| 🎬 **[Cinematic Storyboard AI Engine](https://github.com/zfryrgnci/previz-ai-engine)** | AI tool parsing screenplays to generate executable Python/MAXScripts for Unreal Engine blockouts. | `Python` `Unreal API` |
+| 🌪️ **[Generative Kinetic Typography](https://github.com/zfryrgnci/kinetic-typography)** | WebGL motion graphics engine using physics and noise algorithms to dynamically distort 3D typography. | `WebGL` `GLSL` `Three.js` |
+| 🥽 **[Spatial WebXR Portfolio](https://github.com/zfryrgnci/webxr-spatial-gallery)** | Immersive VR computing portfolio featuring a procedurally lit 3D museum environment. | `WebXR` `React` `R3F` |
+
+<br/>
+
+## 📱 Mobile Game Development
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **[Space Bala](https://github.com/zfryrgnci/Space-Bala-mobile-game)** | A tribute to the legendary Nokia-era side-scrolling space shooter, built with pure HTML5 Canvas. | `HTML5 Canvas` `JavaScript` |
+| 🐍 **[Neon Snake Rush](https://github.com/zfryrgnci/NeonSnakeAPK-Mobile-Game-)** | High-octane Hybrid-Casual Snake Game wrapped in native WebView. | `Kotlin` `HTML5 Canvas` |
+| 🔮 **[Quantum Ascent](https://github.com/zfryrgnci/QuantumAscentAPK-Mobile-Game-)** | Gravity-defying procedural vertical platformer with fluid physics. | `Kotlin` `HTML5 Canvas` |
+
+<br/>
+
 ## 🏆 Featured Projects
 
 Here are the open-source engines and applications I have engineered:
@@ -51,30 +75,6 @@ Here are the open-source engines and applications I have engineered:
 | 📧 **[Email-Inquiry-Parser](https://github.com/zfryrgnci/Email-Inquiry-Parser)** | High-precision semantic synthesizer translating unstructured B2B correspondence into CRM records. | `TypeScript` `AI` |
 | 🤝 **[RepreAI](https://github.com/zfryrgnci/RepreAI)** | Automated PR and B2B customer relations manager that preserves company tone and protects reputation. | `TypeScript` `React` |
 | 🛡️ **[Compliance-Audit-AI](https://github.com/zfryrgnci/Compliance-Audit-AI)** | Deterministic document verification and real-time compliance risk analysis engine. | `TypeScript` `Vite` |
-
-
-<br/>
-
-## 📱 Mobile Game Development
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🐍 **[Neon Snake Rush](https://github.com/zfryrgnci/NeonSnakeAPK-Mobile-Game-)** | High-octane Hybrid-Casual Snake Game wrapped in native WebView. | `Kotlin` `HTML5 Canvas` |
-| 🔮 **[Quantum Ascent](https://github.com/zfryrgnci/QuantumAscentAPK-Mobile-Game-)** | Gravity-defying procedural vertical platformer with fluid physics. | `Kotlin` `HTML5 Canvas` |
-
-<br/>
-
-## 🎨 Design & Creative Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🌌 **[Creative Technologist Lab](https://github.com/zfryrgnci/creative-technologist-lab)** | A massive WebGL sandbox housing over 80 interactive 3D generative art and physics algorithms. | `WebGL` `Three.js` `GLSL` |
-| 🛠️ **[Design Architect Scripts](https://github.com/zfryrgnci/creative-design-architect-scripts)** | 1250 automation scripts for Adobe CC and 3ds Max. | `ExtendScript` `MAXScript` |
-| 🎨 **[AI-Powered PBR Texture Generator](https://github.com/zfryrgnci/ai-pbr-generator)** | Interactive web app using Generative AI to synthesize seamless PBR material maps. | `React` `Three.js` `AI` |
-| 🏗️ **[Parametric Architecture Configurator](https://github.com/zfryrgnci/parametric-arch-config)** | Real-time 3D web configurator for manipulating procedural architecture via mathematical meshes. | `React` `R3F` `WebGL` |
-| 🎬 **[Cinematic Storyboard AI Engine](https://github.com/zfryrgnci/previz-ai-engine)** | AI tool parsing screenplays to generate executable Python/MAXScripts for Unreal Engine blockouts. | `Python` `Unreal API` |
-| 🌪️ **[Generative Kinetic Typography](https://github.com/zfryrgnci/kinetic-typography)** | WebGL motion graphics engine using physics and noise algorithms to dynamically distort 3D typography. | `WebGL` `GLSL` `Three.js` |
-| 🥽 **[Spatial WebXR Portfolio](https://github.com/zfryrgnci/webxr-spatial-gallery)** | Immersive VR computing portfolio featuring a procedurally lit 3D museum environment. | `WebXR` `React` `R3F` |
 
 ---
 
