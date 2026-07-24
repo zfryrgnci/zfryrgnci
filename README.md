@@ -18,7 +18,7 @@
 
 I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graphics**, and **Enterprise/Designer Workflow Automation**. With a unique background spanning 3ds Max procedural rendering to FastAPI/React architectures, I build high-performance systems that don't just compute data—they deliver breathtaking user experiences. I created 1250+ scripts for 3ds Max, Adobe Photoshop, Illustrator, After Effects and Premiere's work flows.
 
-- 🤖 **Current Focus:** Training and deploying generative AI engines (MusicGen, Gemini, Claude).
+- 🤖 **Current Focus:** Training and deploying generative AI engines.
 - 🌌 **Creative Output:** Check out my **Branding Portfolio**, **Behance 3D Archive**, and **Video Animations** linked at the top of this profile!
 - 💬 **Ask me about:** PWA architectures, Procedural 3D Generation, AI Prompt Engineering, and Serverless Deployment.
 
