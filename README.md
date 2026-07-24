@@ -43,6 +43,7 @@ I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graph
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| 🎬 **[CinéVague — Auteur Cinema Designer](https://github.com/zfryrgnci/CineVague-Film-Project-Designer)** | A multi-agent arthouse filmmaking desktop application simulating a virtual studio. | `Python` `PySide6` `LLM` |
 | 🌌 **[Creative Technologist Lab](https://github.com/zfryrgnci/creative-technologist-lab)** | A massive WebGL sandbox housing over 80 interactive 3D generative art and physics algorithms. | `WebGL` `Three.js` `GLSL` |
 | 🛠️ **[Design Architect Scripts](https://github.com/zfryrgnci/creative-design-architect-scripts)** | 1250 automation scripts for Adobe CC and 3ds Max. | `ExtendScript` `MAXScript` |
 | 🎨 **[AI-Powered PBR Texture Generator](https://github.com/zfryrgnci/ai-pbr-generator)** | Interactive web app using Generative AI to synthesize seamless PBR material maps. | `React` `Three.js` `AI` |
