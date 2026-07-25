@@ -64,7 +64,7 @@ I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graph
 
 <br/>
 
-## 🏆 Featured Projects
+## 🏆 Apps and other Projects
 
 Here are the open-source engines and applications I have engineered:
 
