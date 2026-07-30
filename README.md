@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Zfrv2%20&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20%7C%20Creative%20Technologist%20%7C%20Technical%20Director&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Zfr.v2%20&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20Software%20Engineer%20%7C%20Creative%20Technologist%20%7C%20Technical%20Director&descAlignY=55&descAlign=50" />
 
 ### *Bridging the gap between Advanced Artificial Intelligence and World-Class Creative Design.*
 
