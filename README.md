@@ -62,7 +62,7 @@ I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graph
 
 <br/>
 
-## 🎮 Mobile Game Development
+## 🎮 Mobile Game Development &nbsp;·&nbsp; *Launching on Google Play (soon)*
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
