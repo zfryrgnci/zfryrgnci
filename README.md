@@ -4,11 +4,7 @@
 
 ### *Bridging the gap between Advanced Artificial Intelligence and World-Class Creative Design.*
 
-[![Branding](https://img.shields.io/badge/Portfolio-Branding_&_Visual_Communications-00C7B7?style=for-the-badge&logo=netlify)](https://zfryrgnci.netlify.app/01%20Zafer_Yorganci___Branding_Visual_Communications___Portfolio.pdf)
-[![Behance](https://img.shields.io/badge/Behance-3D_Portfolio_Archive-1769ff?style=for-the-badge&logo=behance)](https://www.behance.net/zfryrgnci)
-<br/>
-[![Xiaomi](https://img.shields.io/badge/Google_Drive-Xiaomi_Global_Animations-1DA1F2?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1uyqAJmhsgMtRzp3oO7wp9vDE3VNm57px)
-[![AuraAI](https://img.shields.io/badge/Google_Drive-AuraAI_App_Videos-1DA1F2?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1MUZOykLxwusNhAoBg3tC_M6SLmyeV7fA)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zfryrgnci.netlify.app-00C7B7?style=for-the-badge&logo=netlify)](https://zfryrgnci.netlify.app/)
 
 </div>
 
@@ -19,7 +15,7 @@
 I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graphics**, and **Enterprise/Designer Workflow Automation**. With a unique background spanning 3ds Max procedural rendering to FastAPI/React architectures, I build high-performance systems that don't just compute data—they deliver breathtaking user experiences. I created 1250+ scripts for 3ds Max, Adobe Photoshop, Illustrator, After Effects and Premiere's work flows.
 
 - 🤖 **Current Focus:** Training and deploying generative AI engines.
-- 🌌 **Creative Output:** Check out my **Branding Portfolio**, **Behance 3D Archive**, and **Video Animations** linked at the top of this profile!
+- 🌌 **Creative Output:** Explore my full portfolio at **[zfryrgnci.netlify.app](https://zfryrgnci.netlify.app/)**.
 - 💬 **Ask me about:** PWA architectures, Procedural 3D Generation, AI Prompt Engineering, and Serverless Deployment.
 
 ---
@@ -27,9 +23,9 @@ I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graph
 ## 💻 Tech Stack & Expertise
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,html,css,tailwind,nodejs,fastapi" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=threejs,docker,vercel,gcp,git,github,vscode,linux,ps,ai,pr,ae" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,vite,html,css,tailwind,nodejs,fastapi" />
+<br/>
+<img src="https://skillicons.dev/icons?i=threejs,docker,vercel,gcp,git,github,vscode,linux,ps,ai,pr,ae" />
 </div>
 
 <br/>
@@ -54,7 +50,19 @@ I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graph
 
 <br/>
 
-## 📱 Mobile Game Development
+## 📱 Mobile Apps &nbsp;·&nbsp; *Launching on Google Play (soon)*
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 💰 **[Money Manager](https://github.com/zfryrgnci/new-files)** | Personal-finance app — balance, income & expense tracking, categorised transactions and monthly insights. | `Kotlin` `Jetpack` `Room` |
+| 🏦 **[Loan Calculator](https://github.com/zfryrgnci/new-files)** | EMI & mortgage calculator with live sliders and a full year-by-year amortisation schedule. | `Kotlin` `Jetpack` |
+| 🔥 **[Streak — Habit Tracker](https://github.com/zfryrgnci/new-files)** | Daily habit tracker built around streaks, reminders and a Pro tier. | `Kotlin` `WorkManager` |
+| ⏱️ **[Focus — Pomodoro](https://github.com/zfryrgnci/new-files)** | Distraction-free Pomodoro timer with focus / break cycles and session stats. | `Kotlin` `Coroutines` |
+| 🧠 **[Flashcards — Study](https://github.com/zfryrgnci/new-files)** | Spaced-repetition study & test-prep flashcards with a real exam mode. | `Kotlin` `Spaced-Repetition` |
+
+<br/>
+
+## 🎮 Mobile Game Development
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -82,13 +90,13 @@ Here are the open-source engines and applications I have engineered:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=zfryrgnci&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=zfryrgnci&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zfryrgnci&bg_color=141321&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zfryrgnci&bg_color=141321&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
