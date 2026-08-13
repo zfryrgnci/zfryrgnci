@@ -69,6 +69,8 @@ I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graph
 | 🚀 **[Space Bala](https://github.com/zfryrgnci/Space-Bala-mobile-game)** | A tribute to the legendary Nokia-era side-scrolling space shooter, built with pure HTML5 Canvas. | `HTML5 Canvas` `JavaScript` |
 | 🐍 **[Neon Snake Rush](https://github.com/zfryrgnci/NeonSnakeAPK-Mobile-Game-)** | High-octane Hybrid-Casual Snake Game wrapped in native WebView. | `Kotlin` `HTML5 Canvas` |
 | 🔮 **[Quantum Ascent](https://github.com/zfryrgnci/QuantumAscentAPK-Mobile-Game-)** | Gravity-defying procedural vertical platformer with fluid physics. | `Kotlin` `HTML5 Canvas` |
+| 🧩 **[Neon Blocks](https://github.com/zfryrgnci/Neon-Blocks-puzzle-game)** | 8x8 block-placement puzzler that never deals an unplayable hand - every piece batch is verified placeable before it is dealt. | `Kotlin` `HTML5 Canvas` |
+| 🪢 **[Neon Unravel](https://github.com/zfryrgnci/Neon-Unravel-puzzle-game)** | Tangle puzzler - steer snaking light-strands out of packed grids. Levels are solver-verified for both solvability and difficulty. | `Kotlin` `HTML5 Canvas` |
 
 <br/>
 
