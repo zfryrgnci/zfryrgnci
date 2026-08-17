@@ -35,6 +35,22 @@ I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graph
 
 ---
 
+## 🎮 Mobile Game Development &nbsp;·&nbsp; *Launching on Google Play (soon)*
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🚀 **[Space Bala](https://github.com/zfryrgnci/Space-Bala-mobile-game)** | A tribute to the legendary Nokia-era side-scrolling space shooter, built with pure HTML5 Canvas. | `HTML5 Canvas` `JavaScript` |
+| 🐍 **[Neon Snake Rush](https://github.com/zfryrgnci/NeonSnakeAPK-Mobile-Game-)** | High-octane Hybrid-Casual Snake Game wrapped in native WebView. | `Kotlin` `HTML5 Canvas` |
+| 🔮 **[Quantum Ascent](https://github.com/zfryrgnci/QuantumAscentAPK-Mobile-Game-)** | Gravity-defying procedural vertical platformer with fluid physics. | `Kotlin` `HTML5 Canvas` |
+| 🧩 **[Neon Blocks](https://github.com/zfryrgnci/Neon-Blocks-puzzle-game)** | 8x8 block-placement puzzler that never deals an unplayable hand - every piece batch is verified placeable before it is dealt. | `Kotlin` `HTML5 Canvas` |
+| 🪢 **[Neon Unravel](https://github.com/zfryrgnci/Neon-Unravel-puzzle-game)** | Tangle puzzler - steer snaking light-strands out of packed grids. Levels are solver-verified for both solvability and difficulty. | `Kotlin` `HTML5 Canvas` |
+| 🧱 **[Brick Fit: Block Puzzle](https://github.com/zfryrgnci/Block-Puzzle)** | Isometric brick-fitting puzzler with real extruded studs - bricks seat on the baseplate and side walls close at the edge of the build, so a packed plate reads as one flat surface. | `Kotlin` `HTML5 Canvas` |
+| 🔩 **[Screw Out](https://github.com/zfryrgnci/-Screw-Out)** | Layered plank puzzler - unscrew what you can reach. Planks are painted in layer order, so a screw is visible exactly when it is turnable: what you see can never disagree with what the engine allows. | `Kotlin` `HTML5 Canvas` |
+| 🌀 **[Twist Out](https://github.com/zfryrgnci/Twist-out)** | Untangle puzzler - drag pins until no strand crosses another. Every level ships with a par count and a verified solved layout. | `Kotlin` `HTML5 Canvas` |
+| ✏️ **[Line Out](https://github.com/zfryrgnci/-Line-Out)** | One-line drawing puzzler - cover every square without lifting your finger. The line walks toward the finger one legal square at a time, so fast drawing works and skipping does not. | `Kotlin` `HTML5 Canvas` |
+
+<br/>
+
 ## 🎨 Design & Creative Projects
 
 | Project | Description | Tech Stack |
@@ -59,22 +75,6 @@ I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graph
 | 🔥 **[Streak — Habit Tracker](https://github.com/zfryrgnci/new-files)** | Daily habit tracker built around streaks, reminders and a Pro tier. | `Kotlin` `WorkManager` |
 | ⏱️ **[Focus — Pomodoro](https://github.com/zfryrgnci/new-files)** | Distraction-free Pomodoro timer with focus / break cycles and session stats. | `Kotlin` `Coroutines` |
 | 🧠 **[Flashcards — Study](https://github.com/zfryrgnci/new-files)** | Spaced-repetition study & test-prep flashcards with a real exam mode. | `Kotlin` `Spaced-Repetition` |
-
-<br/>
-
-## 🎮 Mobile Game Development &nbsp;·&nbsp; *Launching on Google Play (soon)*
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🚀 **[Space Bala](https://github.com/zfryrgnci/Space-Bala-mobile-game)** | A tribute to the legendary Nokia-era side-scrolling space shooter, built with pure HTML5 Canvas. | `HTML5 Canvas` `JavaScript` |
-| 🐍 **[Neon Snake Rush](https://github.com/zfryrgnci/NeonSnakeAPK-Mobile-Game-)** | High-octane Hybrid-Casual Snake Game wrapped in native WebView. | `Kotlin` `HTML5 Canvas` |
-| 🔮 **[Quantum Ascent](https://github.com/zfryrgnci/QuantumAscentAPK-Mobile-Game-)** | Gravity-defying procedural vertical platformer with fluid physics. | `Kotlin` `HTML5 Canvas` |
-| 🧩 **[Neon Blocks](https://github.com/zfryrgnci/Neon-Blocks-puzzle-game)** | 8x8 block-placement puzzler that never deals an unplayable hand - every piece batch is verified placeable before it is dealt. | `Kotlin` `HTML5 Canvas` |
-| 🪢 **[Neon Unravel](https://github.com/zfryrgnci/Neon-Unravel-puzzle-game)** | Tangle puzzler - steer snaking light-strands out of packed grids. Levels are solver-verified for both solvability and difficulty. | `Kotlin` `HTML5 Canvas` |
-| 🧱 **[Brick Fit: Block Puzzle](https://github.com/zfryrgnci/Block-Puzzle)** | Isometric brick-fitting puzzler with real extruded studs - bricks seat on the baseplate and side walls close at the edge of the build, so a packed plate reads as one flat surface. | `Kotlin` `HTML5 Canvas` |
-| 🔩 **[Screw Out](https://github.com/zfryrgnci/-Screw-Out)** | Layered plank puzzler - unscrew what you can reach. Planks are painted in layer order, so a screw is visible exactly when it is turnable: what you see can never disagree with what the engine allows. | `Kotlin` `HTML5 Canvas` |
-| 🌀 **[Twist Out](https://github.com/zfryrgnci/Twist-out)** | Untangle puzzler - drag pins until no strand crosses another. Every level ships with a par count and a verified solved layout. | `Kotlin` `HTML5 Canvas` |
-| ✏️ **[Line Out](https://github.com/zfryrgnci/-Line-Out)** | One-line drawing puzzler - cover every square without lifting your finger. The line walks toward the finger one legal square at a time, so fast drawing works and skipping does not. | `Kotlin` `HTML5 Canvas` |
 
 <br/>
 
