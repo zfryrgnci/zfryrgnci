@@ -4,7 +4,7 @@
 
 ### *Bridging the gap between Advanced Artificial Intelligence and World-Class Creative Design.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-zfryrgnci.netlify.app-00C7B7?style=for-the-badge&logo=netlify)](https://zfryrgnci.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio.zfryrgnci.workers.dev-00C7B7?style=for-the-badge&logo=netlify)](https://portfolio.zfryrgnci.workers.dev/)
 
 </div>
 
@@ -15,7 +15,7 @@
 I am a Creative Technologist specializing in **Generative AI**, **WebGL/3D Graphics**, and **Enterprise/Designer Workflow Automation**. With a unique background spanning 3ds Max procedural rendering to FastAPI/React architectures, I build high-performance systems that don't just compute data—they deliver breathtaking user experiences. I created 1250+ scripts for 3ds Max, Adobe Photoshop, Illustrator, After Effects and Premiere's work flows.
 
 - 🤖 **Current Focus:** Training and deploying generative AI engines.
-- 🌌 **Creative Output:** Explore my full portfolio at **[zfryrgnci.netlify.app](https://zfryrgnci.netlify.app/)**.
+- 🌌 **Creative Output:** Explore my full portfolio at **[portfolio.zfryrgnci.workers.dev](https://portfolio.zfryrgnci.workers.dev/)**.
 - 💬 **Ask me about:** PWA architectures, Procedural 3D Generation, AI Prompt Engineering, and Serverless Deployment.
 
 ---
